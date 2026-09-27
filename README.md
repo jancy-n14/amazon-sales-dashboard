@@ -6,6 +6,10 @@ This project presents an interactive Amazon Sales Dashboard developed using Micr
 
 The dashboard analyzes Amazon sales data to provide insights into sales performance, order quantity, customer ratings, delivery time, and state-wise sales distribution.
 
+## 📊 Dashboard Preview
+
+![Amazon Sales Dashboard](Amazon_Sales_Dashboard_Preview.png)
+
 ## 🎯 Project Objective
 
 The objective of this project is to transform raw sales data into meaningful business insights using Excel-based data analysis, Pivot Tables, and data visualization.
